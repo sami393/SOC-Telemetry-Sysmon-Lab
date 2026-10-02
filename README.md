@@ -16,8 +16,8 @@ To engineer and validate a local endpoint security logging pipeline using Micros
 5. **Log Triage:** Analyzed event logs inside Windows Event Viewer to isolate **Event ID 1 (Process Create)**, successfully tracing how the inbound network probe forced the execution of `SearchProtocolHost.exe` to handle the traffic hooks.
 
 ## 📊 Technical Evidence (Live Capture)
-<img width="600" height="200" alt="Annotation 2026-08-31 140225" src="Screenshot 1.png" />
-<img width="500" height="300" alt="Annotation 2026-08-31 140225" src="Screenshot 2.png" />
+<img width="500" height="100" alt="Annotation 2026-08-31 140225" src="Screenshot 1.png" />
+<img width="600" height="300" alt="Annotation 2026-08-31 140225" src="Screenshot 2.png" />
 <img width="600" height="300" alt="Annotation 2026-08-31 140225" src="screenshot 3.png" />
 <img width="600" height="300" alt="Annotation 2026-08-31 140225" src="screenshot 4.png" />
 <img width="600" height="300" alt="Annotation 2026-08-31 140225" src="https://github.com/user-attachments/assets/6f617bc6-8608-42e3-bda3-9770afecfa85" />
