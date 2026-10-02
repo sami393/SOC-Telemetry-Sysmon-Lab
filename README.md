@@ -17,4 +17,4 @@ To engineer and validate a local endpoint security logging pipeline using Micros
 
 ## 📊 Technical Evidence (Live Capture)
 
-<img width="687" height="486" alt="Annotation 2026-08-31 140225" src="https://github.com/user-attachments/assets/6f617bc6-8608-42e3-bda3-9770afecfa85" />
+<img width="600" height="300" alt="Annotation 2026-08-31 140225" src="https://github.com/user-attachments/assets/6f617bc6-8608-42e3-bda3-9770afecfa85" />
